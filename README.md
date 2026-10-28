@@ -74,7 +74,7 @@ jorge@github
 Role       : IT Support · Software Developer
 Location   : Costa Rica
 Interests  : Automation · AI · Software
-Tools      : Python · SQL · Git · Linux · MIPS
+Tools      : Python · SQL · Git · Linux · AI
 Currently  : IT Support at Tecnológico de Costa Rica
 ```
 
