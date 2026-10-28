@@ -10,7 +10,7 @@
 
 ## `jorge@github:~$ whoami`
 
-> Este retrato es **arte ASCII real**: el diseño se compone de caracteres de texto, no de una imagen PNG ni SVG.
+
 
 ```text
 
@@ -80,7 +80,7 @@ Currently  : IT Support at Tecnológico de Costa Rica
 
 ## Sobre mí
 
-Trabajo en soporte de TI en el **Tecnológico de Costa Rica**. Me interesan el desarrollo de software, la automatización y la inteligencia artificial.
+Trabajo en soporte de TI en el **Tecnológico de Costa Rica** como asistente. Me interesan el desarrollo de software, la automatización y la inteligencia artificial.
 
 ## Proyectos
 
@@ -88,4 +88,4 @@ Puedes explorar mis repositorios en [GitHub](https://github.com/JDULATE?tab=repo
 
 ---
 
-<sub>Perfil construido con Markdown y caracteres ASCII reales.</sub>
+
