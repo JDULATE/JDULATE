@@ -1,3 +1,18 @@
+<div align="center">
+
+# Hola, soy Jorge Ulate 👋
+
+**Software Development · IT Support · Artificial Intelligence**
+
+[GitHub](https://github.com/JDULATE) · [LinkedIn](https://www.linkedin.com/in/jorge-ulate-03210b424/)
+
+</div>
+
+## `jorge@github:~$ whoami`
+
+
+
+```text
 
                                    .=:..:-=+***===+====+-.::.:
                                  :-+*+***#*#%%**##*#**#**+##++++=--:
@@ -51,3 +66,24 @@
 %@@@@%#**#%%%%%%%%%%%@@@@@=+**#%@@%@#**++++-..                 .+@@@@@@@@@@@@@@@@@@@@@@@
 @%@@@@@%%%%%@@%%%%%%%%@@@@+*@@@@@@@%@#%#**++=-::::.           -#@@@@@@@@@@@@@@@@@@@@@@@@
 %%%%%%@@@@@%%%%%%%%%%%@@@@*@@@@@@@@@##%@@@%%#+====--:.       -@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
+
+```text
+jorge@github
+────────────────────────────────────────────
+Role       : IT Support · Software Developer
+Location   : Costa Rica
+Interests  : Automation · AI · Software
+Tools      : Python · SQL · Git · Linux · AI
+Currently  : IT Support at Tecnológico de Costa Rica
+```
+
+## Sobre mí
+
+Trabajo en soporte de TI en el **Tecnológico de Costa Rica**. Me interesan el desarrollo de software, la automatización y la inteligencia artificial.
+
+## Proyectos
+
+Puedes explorar mis repositorios en [GitHub](https://github.com/JDULATE?tab=repositories).
+
+
