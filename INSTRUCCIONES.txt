@@ -1,1 +1,0 @@
-Sube README.md y la carpeta assets completa a tu repositorio publico JDULATE/JDULATE. No modifiques las rutas de las imagenes.
