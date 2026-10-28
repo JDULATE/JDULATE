@@ -24,5 +24,3 @@ Trabajo en soporte de TI en el **Tecnológico de Costa Rica** y me interesan el 
 Puedes explorar mis repositorios en [GitHub / JDULATE](https://github.com/JDULATE?tab=repositories).
 
 ---
-
-<sub>Retrato ASCII original proporcionado por mí. Se incluye el archivo de texto en <code>assets/ascii-art.txt</code>.</sub>
